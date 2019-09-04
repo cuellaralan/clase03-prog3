@@ -1,0 +1,16 @@
+//fopen ($archivo,$modo) ;
+//R--> read
+//W --> Write , si no existe crea el archivo
+//A --> I-O , 
+//fclose($ar) lo que devuelve el fopen;
+
+
+crear clase alumno
+guardar alumnos en archivo con json_encode
+formato
+[{----},
+{---},
+{----},
+]
+leer archivo, decodificamos y convertimos en array, trabajamos con objeto y volvemos a escribir
+metodos listar,insertar,modificar,borrar
